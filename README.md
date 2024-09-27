@@ -10,6 +10,7 @@ The application has a login system, with special priviledges given to the admin.
  * create tasks and register users 
  * mark tasks complete
  * look at all tasks or just yours
-   [example](https://github.com/JacquesBam/gitTask2/blob/main/image.jpg?raw=true)
+
+[example](https://github.com/JacquesBam/gitTask2/blob/main/one.png)
 
  
