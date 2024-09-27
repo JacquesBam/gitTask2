@@ -13,4 +13,9 @@ The application has a login system, with special priviledges given to the admin.
 
 [example](https://github.com/JacquesBam/gitTask2/blob/main/One.png)
 
+## Credits
+Jacques Bam- https://github.com/JacquesBam/gitTask2
+
+## Repository URL
+https://github.com/JacquesBam/gitTask2
  
