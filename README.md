@@ -11,6 +11,6 @@ The application has a login system, with special priviledges given to the admin.
  * mark tasks complete
  * look at all tasks or just yours
 
-[example](https://github.com/JacquesBam/gitTask2/blob/main/one.png)
+[example](https://github.com/JacquesBam/gitTask2/main/One.png?raw=true)
 
  
